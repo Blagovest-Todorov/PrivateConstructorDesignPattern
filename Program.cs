@@ -14,8 +14,8 @@ namespace _06.OopConstructors
     // if the constructor is private-he can be accessed only in the same class, 
     //and can not be invoked in other classes to create objects /
 
-    class Singleton   //Design  Pattern examople
-    {
+    class Singleton   //Design  Pattern example --helps the private constructor to be used in thoher class;
+    {                 //
 
         public DateTime Date { get; set; }
         private Singleton()  ///private inaccessible from out another class ! accessible only int the same class itself
@@ -26,7 +26,7 @@ namespace _06.OopConstructors
 
         public static Singleton Instance  //property field ! 
         {
-            get 
+            get
             {
                 if (instance == null)
                 {
@@ -125,7 +125,7 @@ namespace _06.OopConstructors
     {                // We have to define the class and his members , and their level of access;
         static void Main(string[] args)
         {
-            Singleton ton = Singleton.Instance;
+            Singleton ton = Singleton.Instance; // aceccung the constructor using the property /Singleton.Instance /
             Console.WriteLine(ton.Date);  //shows the Date
             Console.WriteLine(ton.Date);
             Console.WriteLine(ton.Date);

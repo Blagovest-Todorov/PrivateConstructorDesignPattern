@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\bin\Debug\netcoreapp3.1\09.OopConstructors.exe
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\bin\Debug\netcoreapp3.1\09.OopConstructors.deps.json
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\bin\Debug\netcoreapp3.1\09.OopConstructors.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\bin\Debug\netcoreapp3.1\09.OopConstructors.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\bin\Debug\netcoreapp3.1\09.OopConstructors.dll
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\bin\Debug\netcoreapp3.1\09.OopConstructors.pdb
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\obj\Debug\netcoreapp3.1\09.OopConstructors.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\obj\Debug\netcoreapp3.1\09.OopConstructors.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\obj\Debug\netcoreapp3.1\09.OopConstructors.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\obj\Debug\netcoreapp3.1\09.OopConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\obj\Debug\netcoreapp3.1\09.OopConstructors.dll
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\obj\Debug\netcoreapp3.1\09.OopConstructors.pdb
+C:\Users\Bla\source\repos\OOP\09.OopConstructors\obj\Debug\netcoreapp3.1\09.OopConstructors.genruntimeconfig.cache
